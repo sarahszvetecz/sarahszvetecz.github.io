@@ -8,4 +8,4 @@ date: 2023-06-01
 location: "Cambridge, MA, USA"
 ---
 
-Summer Intern Mentor, Novartis Institutes for BioMedical Research (Summer 2023).
+Mentored a summer intern in the Novartis Summer of Science Internship Program (Summer 2023) on a project analyzing DepMap CRISPR screens to identify cancer type–specific fitness genes.

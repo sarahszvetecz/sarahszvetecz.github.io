@@ -8,4 +8,4 @@ date: 2024-09-01
 location: "Boston, MA, USA"
 ---
 
-Teaching Assistant, Statistical Methods for Computer Science (Fall 2024).
+Teaching Assistant, Statistical Methods for Computer Science, a PhD-level course (Fall 2024).

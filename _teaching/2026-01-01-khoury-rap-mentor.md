@@ -8,4 +8,7 @@ date: 2026-01-01
 location: "Boston, MA, USA"
 ---
 
-Research Mentor, Khoury Research Apprenticeship Program (January 2026–Present).
+Research Mentor, Khoury Research Apprenticeship Program (Spring 2026). Mentored two master's students on projects in:
+
+* Cross-dataset harmonization of clinical and preclinical cancer proteomics
+* Cell type deconvolution of bulk proteomics
