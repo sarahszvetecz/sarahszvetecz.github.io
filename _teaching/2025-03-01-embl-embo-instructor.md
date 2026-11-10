@@ -8,4 +8,4 @@ date: 2025-03-01
 location: "Heidelberg, Germany"
 ---
 
-Instructor for the EMBL-EMBO Short Course on Quantitative Proteomics (2025, and returning in 2027). Taught a lecture and hands-on session: *Introduction to statistical analysis of proteomics data with MSstats*.
+Instructor for the EMBL-EMBO Short Course on Quantitative Proteomics (2025; invited instructor, 2027). Taught a lecture and hands-on session: *Introduction to statistical analysis of proteomics data with MSstats*.

@@ -2,9 +2,9 @@
 title: "Instructor, May Institute Short Course: Statistics for Quantitative Mass Spectrometry"
 collection: teaching
 type: "Short course"
-permalink: /teaching/2025-05-01-may-institute-stats
+permalink: /teaching/2026-05-01-may-institute-stats
 venue: "May Institute"
-date: 2025-05-01
+date: 2026-05-01
 location: ""
 ---
 

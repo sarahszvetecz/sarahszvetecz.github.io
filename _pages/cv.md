@@ -60,7 +60,6 @@ Selected Publications
 ======
 * **Szvetecz S**, Kohler D, Federspiel JD, Field SD, Jean-Beltran P, Seward RJ, Suh H, Xue L, Vitek O. MSstatsResponse: Semi-parametric statistical model enhances detection of drug-protein interactions in chemoproteomics experiments. *Molecular & Cellular Proteomics* 2026;25(9):101637.
 * Brademan DR, Mullarkey AA, Greeson ML, **Szvetecz S**, Vitek O, Blythe EE, Hüttenhain R. Systematic optimization and benchmarking of synchro-PASEF for high-throughput phosphoproteome profiling. *bioRxiv* 2026.06.26.734570.
-* Xu Y, Billy E, Dai W, German R, **Szvetecz S**, et al. Unveiling human cancer cell intrinsic pathways impacting T cell recognition and killing via genome-wide CRISPR screening. *Under review, Nature Communications*.
 * **Szvetecz S**, Boekweg H, Kohler D, Kaneda G, Zilberg L, Song Y, Mastali M, Kreimer S, Haghani A, Parker S, Payne SH, Vitek O. Statistical design and analysis of single-cell proteomic experiments increase the accuracy of differential analysis. *In preparation*.
 * Lee E, **Szvetecz S**, et al. PAX8 lineage-driven T cell engaging antibody for the treatment of high-grade serous ovarian cancer. *Sci Rep* 2021;11(1):14841.
 
@@ -76,7 +75,7 @@ Teaching and Mentoring
 ======
 * Instructor, May Institute Short Course: PTMs & Chemoproteomics, November 2026 (lectures on MSstatsPTM and MSstatsResponse)
 * Instructor, May Institute Short Course: Statistics for Quantitative Mass Spectrometry, May 2025 and May 2026
-* Instructor, EMBL-EMBO Short Course: Quantitative Proteomics, Heidelberg, Germany, 2025 and 2027 (lecture and hands-on session on MSstats)
+* Instructor, EMBL-EMBO Short Course: Quantitative Proteomics, Heidelberg, Germany, 2025; invited instructor, 2027 (lecture and hands-on session on MSstats)
 * Workstream Lead, Cell Type Annotation, scverse × Single-Cell Proteomics Hackathon, Vienna, September 2026
 * Research Mentor, Khoury Research Apprenticeship Program, Northeastern University, Spring 2026 (two master's students: cross-dataset harmonization of cancer proteomics; cell type deconvolution of bulk proteomics)
 * Teaching Assistant, Statistical Methods for Computer Science (PhD level), Northeastern University, Fall 2024
